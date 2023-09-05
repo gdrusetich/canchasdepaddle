@@ -21,7 +21,7 @@
       <version>1.5.0</version>
       <scope>provided</scope>
     </dependency>
-
+    
     <!-- JPA Persistence Dependencies -->
     <dependency>
       <groupId>io.github.flbulgarelli</groupId>
